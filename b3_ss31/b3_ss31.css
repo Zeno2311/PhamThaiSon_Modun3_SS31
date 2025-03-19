@@ -1,0 +1,45 @@
+.background {
+    background-color: white;
+    color: black;
+}
+
+.background-xanh {
+    background-color: green;
+}
+
+.background-do {
+    background-color: red;
+}
+
+.background-tim {
+    background-color: purple;
+}
+
+button {
+    width: 150px;
+    height: 150px;
+}
+
+#mode-xanh {
+    background-color: green;
+}
+
+#mode-do {
+    background-color: red;
+}
+
+#mode-tim {
+    background-color: purple;
+}
+
+#mode-xanh:hover {
+    background-color: rgb(16, 187, 39);
+}
+
+#mode-do:hover {
+    background-color: rgb(156, 32, 32);
+}
+
+#mode-tim:hover {
+    background-color: rgb(159, 28, 159);
+}

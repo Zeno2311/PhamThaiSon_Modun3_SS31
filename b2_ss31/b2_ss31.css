@@ -1,0 +1,9 @@
+#backgrout {
+    background: white;
+    color: black;
+}
+
+#backgrout.dark-mode {
+    background: black;
+    color: white;
+}
